@@ -1,4 +1,5 @@
 # Hi, I'm Malhar Khisty! 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## 🚀 About Me
 I'm an aspiring **computer scientist** and currently an **Honors College student at Michigan State University**. My passion lies in building **Impactful, Innovative Software**, understanding and advancing modern **ML architectures** and **data science** techniques, while maintaining a strong foundation in **mathematics** and **problem-solving**.
