@@ -12,7 +12,7 @@ I'm a CS student and currently at MSU. My passion lies in building impactful sof
 - React Native
 - ML model optimization techniques
 - PyMavLink
-- 
+
 ## Connect With Me
 - **LinkedIn**: [linkedin.com/in/malharkhisty](https://www.linkedin.com/in/malhar-k-181552266/)
 - **Website**: Work in progres...
